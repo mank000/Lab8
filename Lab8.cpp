@@ -46,6 +46,6 @@ void solution2() {
 int main()
 {
 	setlocale(LC_ALL, "ru");
-	solution2();
+	solution1();
 	solution2();
 }
